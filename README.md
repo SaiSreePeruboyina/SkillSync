@@ -17,7 +17,9 @@ SkillSync is an AI-based web app that matches your resume to the most relevant t
 
 ## 🎥 Demo
 
-![Demo](screenshots/demo.gif)
+![Demo](screenshot1.PNG)
+![Demo](screenshot2.PNG)
+![Demo](screenshot3.PNG)
 
 ---
 
